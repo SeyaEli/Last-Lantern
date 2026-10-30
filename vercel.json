@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "node build-vercel.cjs",
+  "outputDirectory": "public",
+  "redirects": [
+    { "source": "/Last-Lantern.html", "destination": "/", "permanent": false }
+  ]
+}
