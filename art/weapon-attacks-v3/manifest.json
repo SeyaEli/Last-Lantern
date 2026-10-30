@@ -1,0 +1,2797 @@
+{
+  "attackv3_fists": {
+    "weapon": "fists",
+    "hero": "rook",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.48,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "brawler-source.png",
+    "points": [
+      {
+        "muzzle": [
+          62.288065843621396,
+          -58.748971193415635
+        ],
+        "footX": 25,
+        "footY": 249
+      },
+      {
+        "muzzle": [
+          65.65020576131687,
+          -21.588477366255145
+        ],
+        "footX": 19.5,
+        "footY": 243
+      },
+      {
+        "muzzle": [
+          64.05761316872427,
+          -49.901234567901234
+        ],
+        "footX": 19,
+        "footY": 243
+      },
+      {
+        "muzzle": [
+          65.65020576131687,
+          -56.62551440329218
+        ],
+        "footX": 20.5,
+        "footY": 232
+      },
+      {
+        "muzzle": [
+          67.06584362139918,
+          -63.7037037037037
+        ],
+        "footX": 106.5,
+        "footY": 235
+      },
+      {
+        "muzzle": [
+          76.44444444444444,
+          -56.27160493827161
+        ],
+        "footX": 21,
+        "footY": 230
+      },
+      {
+        "muzzle": [
+          59.2798353909465,
+          -54.8559670781893
+        ],
+        "footX": 19.5,
+        "footY": 238
+      },
+      {
+        "muzzle": [
+          57.15637860082305,
+          -58.39506172839506
+        ],
+        "footX": 24.5,
+        "footY": 248
+      }
+    ],
+    "registration": {
+      "scale": 0.35390946502057613,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 210,
+          "sh": 253,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 209,
+          "maxY": 252,
+          "footX": 25,
+          "footY": 249,
+          "tipX": 201,
+          "tipY": 83,
+          "sourceX": 23,
+          "sourceY": 25
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 239,
+          "sh": 248,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 238,
+          "maxY": 247,
+          "footX": 19.5,
+          "footY": 243,
+          "tipX": 205,
+          "tipY": 182,
+          "sourceX": 241,
+          "sourceY": 31
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 231,
+          "sh": 247,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 230,
+          "maxY": 246,
+          "footX": 19,
+          "footY": 243,
+          "tipX": 200,
+          "tipY": 102,
+          "sourceX": 496,
+          "sourceY": 32
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 227,
+          "sh": 236,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 226,
+          "maxY": 235,
+          "footX": 20.5,
+          "footY": 232,
+          "tipX": 206,
+          "tipY": 72,
+          "sourceX": 738,
+          "sourceY": 43
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 301,
+          "sh": 240,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 300,
+          "maxY": 239,
+          "footX": 106.5,
+          "footY": 235,
+          "tipX": 296,
+          "tipY": 55,
+          "sourceX": 976,
+          "sourceY": 39
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 242,
+          "sh": 234,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 241,
+          "maxY": 233,
+          "footX": 21,
+          "footY": 230,
+          "tipX": 237,
+          "tipY": 71,
+          "sourceX": 1239,
+          "sourceY": 45
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 195,
+          "sh": 243,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 194,
+          "maxY": 242,
+          "footX": 19.5,
+          "footY": 238,
+          "tipX": 187,
+          "tipY": 83,
+          "sourceX": 1476,
+          "sourceY": 36
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 202,
+          "sh": 253,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 201,
+          "maxY": 252,
+          "footX": 24.5,
+          "footY": 248,
+          "tipX": 186,
+          "tipY": 83,
+          "sourceX": 1675,
+          "sourceY": 26
+        }
+      ]
+    }
+  },
+  "attackv3_thunder": {
+    "weapon": "thunder",
+    "hero": "rook",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.48,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "brawler-source.png",
+    "points": [
+      {
+        "muzzle": [
+          61.58024691358025,
+          -61.934156378600825
+        ],
+        "footX": 25,
+        "footY": 250
+      },
+      {
+        "muzzle": [
+          65.29629629629629,
+          -23.004115226337447
+        ],
+        "footX": 19.5,
+        "footY": 243
+      },
+      {
+        "muzzle": [
+          63.7037037037037,
+          -21.588477366255145
+        ],
+        "footX": 20,
+        "footY": 243
+      },
+      {
+        "muzzle": [
+          64.41152263374485,
+          -58.748971193415635
+        ],
+        "footX": 21,
+        "footY": 232
+      },
+      {
+        "muzzle": [
+          94.49382716049382,
+          -58.748971193415635
+        ],
+        "footX": 22,
+        "footY": 236
+      },
+      {
+        "muzzle": [
+          73.96707818930041,
+          -57.333333333333336
+        ],
+        "footX": 20,
+        "footY": 230
+      },
+      {
+        "muzzle": [
+          59.10288065843621,
+          -56.62551440329218
+        ],
+        "footX": 20,
+        "footY": 238
+      },
+      {
+        "muzzle": [
+          55.38683127572016,
+          -61.934156378600825
+        ],
+        "footX": 25.5,
+        "footY": 249
+      }
+    ],
+    "registration": {
+      "scale": 0.35390946502057613,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 215,
+          "sh": 254,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 214,
+          "maxY": 253,
+          "footX": 25,
+          "footY": 250,
+          "tipX": 199,
+          "tipY": 75,
+          "sourceX": 23,
+          "sourceY": 303
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 238,
+          "sh": 247,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 237,
+          "maxY": 246,
+          "footX": 19.5,
+          "footY": 243,
+          "tipX": 204,
+          "tipY": 178,
+          "sourceX": 241,
+          "sourceY": 310
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 231,
+          "sh": 246,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 230,
+          "maxY": 245,
+          "footX": 20,
+          "footY": 243,
+          "tipX": 200,
+          "tipY": 182,
+          "sourceX": 496,
+          "sourceY": 311
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 227,
+          "sh": 235,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 226,
+          "maxY": 234,
+          "footX": 21,
+          "footY": 232,
+          "tipX": 203,
+          "tipY": 66,
+          "sourceX": 738,
+          "sourceY": 322
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 309,
+          "sh": 239,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 308,
+          "maxY": 238,
+          "footX": 22,
+          "footY": 236,
+          "tipX": 289,
+          "tipY": 70,
+          "sourceX": 976,
+          "sourceY": 318
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 248,
+          "sh": 233,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 247,
+          "maxY": 232,
+          "footX": 20,
+          "footY": 230,
+          "tipX": 229,
+          "tipY": 68,
+          "sourceX": 1239,
+          "sourceY": 324
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 200,
+          "sh": 242,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 199,
+          "maxY": 241,
+          "footX": 20,
+          "footY": 238,
+          "tipX": 187,
+          "tipY": 78,
+          "sourceX": 1476,
+          "sourceY": 315
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 201,
+          "sh": 253,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 200,
+          "maxY": 252,
+          "footX": 25.5,
+          "footY": 249,
+          "tipX": 182,
+          "tipY": 74,
+          "sourceX": 1675,
+          "sourceY": 304
+        }
+      ]
+    }
+  },
+  "attackv3_titan": {
+    "weapon": "titan",
+    "hero": "rook",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.48,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "brawler-source.png",
+    "points": [
+      {
+        "muzzle": [
+          63.789256198347104,
+          -59.70247933884297
+        ],
+        "footX": 26.5,
+        "footY": 249
+      },
+      {
+        "muzzle": [
+          67.69834710743801,
+          -55.438016528925615
+        ],
+        "footX": 19.5,
+        "footY": 242
+      },
+      {
+        "muzzle": [
+          64.32231404958678,
+          -50.107438016528924
+        ],
+        "footX": 19,
+        "footY": 245
+      },
+      {
+        "muzzle": [
+          66.8099173553719,
+          -54.37190082644628
+        ],
+        "footX": 22,
+        "footY": 235
+      },
+      {
+        "muzzle": [
+          100.21487603305785,
+          -64.32231404958678
+        ],
+        "footX": 20,
+        "footY": 236
+      },
+      {
+        "muzzle": [
+          79.9586776859504,
+          -60.05785123966942
+        ],
+        "footX": 18,
+        "footY": 231
+      },
+      {
+        "muzzle": [
+          62.01239669421487,
+          -54.72727272727273
+        ],
+        "footX": 19.5,
+        "footY": 238
+      },
+      {
+        "muzzle": [
+          60.05785123966942,
+          -57.925619834710744
+        ],
+        "footX": 24,
+        "footY": 249
+      }
+    ],
+    "registration": {
+      "scale": 0.35537190082644626,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 211,
+          "sh": 253,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 210,
+          "maxY": 252,
+          "footX": 26.5,
+          "footY": 249,
+          "tipX": 206,
+          "tipY": 81,
+          "sourceX": 23,
+          "sourceY": 583
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 239,
+          "sh": 247,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 238,
+          "maxY": 246,
+          "footX": 19.5,
+          "footY": 242,
+          "tipX": 210,
+          "tipY": 86,
+          "sourceX": 241,
+          "sourceY": 589
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 231,
+          "sh": 247,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 230,
+          "maxY": 246,
+          "footX": 19,
+          "footY": 245,
+          "tipX": 200,
+          "tipY": 104,
+          "sourceX": 496,
+          "sourceY": 589
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 227,
+          "sh": 237,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 226,
+          "maxY": 236,
+          "footX": 22,
+          "footY": 235,
+          "tipX": 210,
+          "tipY": 82,
+          "sourceX": 738,
+          "sourceY": 599
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 310,
+          "sh": 239,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 309,
+          "maxY": 238,
+          "footX": 20,
+          "footY": 236,
+          "tipX": 302,
+          "tipY": 55,
+          "sourceX": 976,
+          "sourceY": 597
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 247,
+          "sh": 233,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 246,
+          "maxY": 232,
+          "footX": 18,
+          "footY": 231,
+          "tipX": 243,
+          "tipY": 62,
+          "sourceX": 1239,
+          "sourceY": 603
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 198,
+          "sh": 242,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 197,
+          "maxY": 241,
+          "footX": 19.5,
+          "footY": 238,
+          "tipX": 194,
+          "tipY": 84,
+          "sourceX": 1476,
+          "sourceY": 594
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 202,
+          "sh": 253,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 201,
+          "maxY": 252,
+          "footX": 24,
+          "footY": 249,
+          "tipX": 193,
+          "tipY": 86,
+          "sourceX": 1675,
+          "sourceY": 583
+        }
+      ]
+    }
+  },
+  "attackv3_wand": {
+    "weapon": "wand",
+    "hero": "orin",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.58,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "mage-source.png",
+    "points": [
+      {
+        "muzzle": [
+          64.56521739130434,
+          -60.26086956521739
+        ],
+        "footX": 30,
+        "footY": 232
+      },
+      {
+        "muzzle": [
+          45.58695652173913,
+          -60.652173913043484
+        ],
+        "footX": 85.5,
+        "footY": 216
+      },
+      {
+        "muzzle": [
+          53.21739130434783,
+          -90.3913043478261
+        ],
+        "footX": 16,
+        "footY": 238
+      },
+      {
+        "muzzle": [
+          61.630434782608695,
+          -101.34782608695653
+        ],
+        "footX": 24.5,
+        "footY": 269
+      },
+      {
+        "muzzle": [
+          105.06521739130436,
+          -64.95652173913044
+        ],
+        "footX": 25.5,
+        "footY": 221
+      },
+      {
+        "muzzle": [
+          49.69565217391305,
+          -68.86956521739131
+        ],
+        "footX": 31,
+        "footY": 225
+      },
+      {
+        "muzzle": [
+          63.58695652173913,
+          -21.91304347826087
+        ],
+        "footX": 23.5,
+        "footY": 230
+      },
+      {
+        "muzzle": [
+          65.34782608695653,
+          -59.869565217391305
+        ],
+        "footX": 28,
+        "footY": 226
+      }
+    ],
+    "registration": {
+      "scale": 0.391304347826087,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 198,
+          "sh": 236,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 197,
+          "maxY": 235,
+          "footX": 30,
+          "footY": 232,
+          "tipX": 195,
+          "tipY": 78,
+          "sourceX": 13,
+          "sourceY": 58
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 206,
+          "sh": 220,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 205,
+          "maxY": 219,
+          "footX": 85.5,
+          "footY": 216,
+          "tipX": 202,
+          "tipY": 61,
+          "sourceX": 232,
+          "sourceY": 73
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 179,
+          "sh": 242,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 178,
+          "maxY": 241,
+          "footX": 16,
+          "footY": 238,
+          "tipX": 152,
+          "tipY": 7,
+          "sourceX": 460,
+          "sourceY": 51
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 186,
+          "sh": 273,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 185,
+          "maxY": 272,
+          "footX": 24.5,
+          "footY": 269,
+          "tipX": 182,
+          "tipY": 10,
+          "sourceX": 659,
+          "sourceY": 20
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 298,
+          "sh": 225,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 297,
+          "maxY": 224,
+          "footX": 25.5,
+          "footY": 221,
+          "tipX": 294,
+          "tipY": 55,
+          "sourceX": 872,
+          "sourceY": 68
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 212,
+          "sh": 229,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 211,
+          "maxY": 228,
+          "footX": 31,
+          "footY": 225,
+          "tipX": 158,
+          "tipY": 49,
+          "sourceX": 1115,
+          "sourceY": 64
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 190,
+          "sh": 234,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 189,
+          "maxY": 233,
+          "footX": 23.5,
+          "footY": 230,
+          "tipX": 186,
+          "tipY": 174,
+          "sourceX": 1355,
+          "sourceY": 59
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 199,
+          "sh": 230,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 198,
+          "maxY": 229,
+          "footX": 28,
+          "footY": 226,
+          "tipX": 195,
+          "tipY": 73,
+          "sourceX": 1570,
+          "sourceY": 64
+        }
+      ]
+    }
+  },
+  "attackv3_frost": {
+    "weapon": "frost",
+    "hero": "orin",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.58,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "mage-source.png",
+    "points": [
+      {
+        "muzzle": [
+          85.26315789473685,
+          -66.3157894736842
+        ],
+        "footX": 28,
+        "footY": 235
+      },
+      {
+        "muzzle": [
+          79.14473684210526,
+          -61.578947368421055
+        ],
+        "footX": 18.5,
+        "footY": 217
+      },
+      {
+        "muzzle": [
+          67.5,
+          -109.34210526315789
+        ],
+        "footX": 26,
+        "footY": 289
+      },
+      {
+        "muzzle": [
+          73.02631578947368,
+          -105
+        ],
+        "footX": 23,
+        "footY": 280
+      },
+      {
+        "muzzle": [
+          116.64473684210526,
+          -77.76315789473685
+        ],
+        "footX": 34.5,
+        "footY": 226
+      },
+      {
+        "muzzle": [
+          87.63157894736842,
+          -50.526315789473685
+        ],
+        "footX": 32,
+        "footY": 226
+      },
+      {
+        "muzzle": [
+          70.0657894736842,
+          -16.57894736842105
+        ],
+        "footX": 27.5,
+        "footY": 228
+      },
+      {
+        "muzzle": [
+          67.5,
+          -63.15789473684211
+        ],
+        "footX": 27,
+        "footY": 227
+      }
+    ],
+    "registration": {
+      "scale": 0.39473684210526316,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 247,
+          "sh": 239,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 246,
+          "maxY": 238,
+          "footX": 28,
+          "footY": 235,
+          "tipX": 244,
+          "tipY": 67,
+          "sourceX": 11,
+          "sourceY": 350
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 223,
+          "sh": 221,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 222,
+          "maxY": 220,
+          "footX": 18.5,
+          "footY": 217,
+          "tipX": 219,
+          "tipY": 61,
+          "sourceX": 234,
+          "sourceY": 368
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 201,
+          "sh": 293,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 200,
+          "maxY": 292,
+          "footX": 26,
+          "footY": 289,
+          "tipX": 197,
+          "tipY": 12,
+          "sourceX": 449,
+          "sourceY": 296
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 214,
+          "sh": 286,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 213,
+          "maxY": 285,
+          "footX": 23,
+          "footY": 280,
+          "tipX": 208,
+          "tipY": 14,
+          "sourceX": 661,
+          "sourceY": 305
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 334,
+          "sh": 230,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 333,
+          "maxY": 229,
+          "footX": 34.5,
+          "footY": 226,
+          "tipX": 330,
+          "tipY": 29,
+          "sourceX": 860,
+          "sourceY": 359
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 258,
+          "sh": 230,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 257,
+          "maxY": 229,
+          "footX": 32,
+          "footY": 226,
+          "tipX": 254,
+          "tipY": 98,
+          "sourceX": 1108,
+          "sourceY": 359
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 209,
+          "sh": 232,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 208,
+          "maxY": 231,
+          "footX": 27.5,
+          "footY": 228,
+          "tipX": 205,
+          "tipY": 186,
+          "sourceX": 1349,
+          "sourceY": 357
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 202,
+          "sh": 231,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 201,
+          "maxY": 230,
+          "footX": 27,
+          "footY": 227,
+          "tipX": 198,
+          "tipY": 67,
+          "sourceX": 1570,
+          "sourceY": 358
+        }
+      ]
+    }
+  },
+  "attackv3_ember": {
+    "weapon": "ember",
+    "hero": "orin",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.58,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "mage-source.png",
+    "points": [
+      {
+        "muzzle": [
+          74.070796460177,
+          -76.06194690265487
+        ],
+        "footX": 28,
+        "footY": 228
+      },
+      {
+        "muzzle": [
+          82.83185840707965,
+          -72.87610619469027
+        ],
+        "footX": 15,
+        "footY": 216
+      },
+      {
+        "muzzle": [
+          74.46902654867257,
+          -107.52212389380531
+        ],
+        "footX": 16,
+        "footY": 279
+      },
+      {
+        "muzzle": [
+          72.27876106194691,
+          -107.12389380530973
+        ],
+        "footX": 23.5,
+        "footY": 283
+      },
+      {
+        "muzzle": [
+          117.27876106194691,
+          -82.0353982300885
+        ],
+        "footX": 23.5,
+        "footY": 220
+      },
+      {
+        "muzzle": [
+          66.50442477876106,
+          -55.75221238938053
+        ],
+        "footX": 28,
+        "footY": 225
+      },
+      {
+        "muzzle": [
+          72.07964601769912,
+          -15.132743362831858
+        ],
+        "footX": 24,
+        "footY": 226
+      },
+      {
+        "muzzle": [
+          68.49557522123894,
+          -74.46902654867257
+        ],
+        "footX": 28,
+        "footY": 225
+      }
+    ],
+    "registration": {
+      "scale": 0.39823008849557523,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 219,
+          "sh": 232,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 218,
+          "maxY": 231,
+          "footX": 28,
+          "footY": 228,
+          "tipX": 214,
+          "tipY": 37,
+          "sourceX": 9,
+          "sourceY": 646
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 229,
+          "sh": 219,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 228,
+          "maxY": 218,
+          "footX": 15,
+          "footY": 216,
+          "tipX": 223,
+          "tipY": 33,
+          "sourceX": 223,
+          "sourceY": 658
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 209,
+          "sh": 283,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 208,
+          "maxY": 282,
+          "footX": 16,
+          "footY": 279,
+          "tipX": 203,
+          "tipY": 9,
+          "sourceX": 466,
+          "sourceY": 595
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 210,
+          "sh": 287,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 209,
+          "maxY": 286,
+          "footX": 23.5,
+          "footY": 283,
+          "tipX": 205,
+          "tipY": 14,
+          "sourceX": 665,
+          "sourceY": 591
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 323,
+          "sh": 224,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 322,
+          "maxY": 223,
+          "footX": 23.5,
+          "footY": 220,
+          "tipX": 318,
+          "tipY": 14,
+          "sourceX": 867,
+          "sourceY": 654
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 228,
+          "sh": 229,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 227,
+          "maxY": 228,
+          "footX": 28,
+          "footY": 225,
+          "tipX": 195,
+          "tipY": 85,
+          "sourceX": 1116,
+          "sourceY": 649
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 211,
+          "sh": 230,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 210,
+          "maxY": 229,
+          "footX": 24,
+          "footY": 226,
+          "tipX": 205,
+          "tipY": 188,
+          "sourceX": 1357,
+          "sourceY": 648
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 204,
+          "sh": 229,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 203,
+          "maxY": 228,
+          "footX": 28,
+          "footY": 225,
+          "tipX": 200,
+          "tipY": 38,
+          "sourceX": 1570,
+          "sourceY": 649
+        }
+      ]
+    }
+  },
+  "attackv3_dawnseeker": {
+    "weapon": "dawnseeker",
+    "hero": "brann",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.58,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "dawnseeker-source.png",
+    "points": [
+      {
+        "muzzle": [
+          41.95110024449878,
+          -80.5281173594132
+        ],
+        "footX": 102.5,
+        "footY": 413
+      },
+      {
+        "muzzle": [
+          76.92909535452323,
+          -71.75550122249389
+        ],
+        "footX": 24,
+        "footY": 390
+      },
+      {
+        "muzzle": [
+          29.466992665036678,
+          -32.16625916870416
+        ],
+        "footX": 155,
+        "footY": 384
+      },
+      {
+        "muzzle": [
+          58.82151589242054,
+          -80.75305623471883
+        ],
+        "footX": 143.5,
+        "footY": 427
+      },
+      {
+        "muzzle": [
+          110.66992665036675,
+          -59.83374083129585
+        ],
+        "footX": 23,
+        "footY": 335
+      },
+      {
+        "muzzle": [
+          106.95843520782397,
+          -47.23716381418093
+        ],
+        "footX": 25.5,
+        "footY": 284
+      },
+      {
+        "muzzle": [
+          44.312958435207825,
+          -77.15403422982885
+        ],
+        "footX": 129,
+        "footY": 409
+      },
+      {
+        "muzzle": [
+          43.18826405867971,
+          -79.85330073349634
+        ],
+        "footX": 108,
+        "footY": 413
+      }
+    ],
+    "registration": {
+      "scale": 0.22493887530562348,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 297,
+          "sh": 418,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 296,
+          "maxY": 417,
+          "footX": 102.5,
+          "footY": 413,
+          "tipX": 289,
+          "tipY": 55,
+          "sourceX": 113,
+          "sourceY": 25
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 372,
+          "sh": 395,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 371,
+          "maxY": 394,
+          "footX": 24,
+          "footY": 390,
+          "tipX": 366,
+          "tipY": 71,
+          "sourceX": 508,
+          "sourceY": 47
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 298,
+          "sh": 389,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 297,
+          "maxY": 388,
+          "footX": 155,
+          "footY": 384,
+          "tipX": 286,
+          "tipY": 241,
+          "sourceX": 912,
+          "sourceY": 54
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 413,
+          "sh": 432,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 412,
+          "maxY": 431,
+          "footX": 143.5,
+          "footY": 427,
+          "tipX": 405,
+          "tipY": 68,
+          "sourceX": 1336,
+          "sourceY": 10
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 522,
+          "sh": 340,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 521,
+          "maxY": 339,
+          "footX": 23,
+          "footY": 335,
+          "tipX": 515,
+          "tipY": 69,
+          "sourceX": 22,
+          "sourceY": 525
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 507,
+          "sh": 289,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 506,
+          "maxY": 288,
+          "footX": 25.5,
+          "footY": 284,
+          "tipX": 501,
+          "tipY": 74,
+          "sourceX": 488,
+          "sourceY": 579
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 336,
+          "sh": 414,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 335,
+          "maxY": 413,
+          "footX": 129,
+          "footY": 409,
+          "tipX": 326,
+          "tipY": 66,
+          "sourceX": 964,
+          "sourceY": 454
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 308,
+          "sh": 418,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 307,
+          "maxY": 417,
+          "footX": 108,
+          "footY": 413,
+          "tipX": 300,
+          "tipY": 58,
+          "sourceX": 1440,
+          "sourceY": 450
+        }
+      ]
+    }
+  },
+  "attackv3_storm": {
+    "weapon": "storm",
+    "hero": "nyx",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.58,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "storm-source.png",
+    "points": [
+      {
+        "muzzle": [
+          75.31172069825436,
+          -69.32668329177058
+        ],
+        "footX": 48,
+        "footY": 386
+      },
+      {
+        "muzzle": [
+          50,
+          -73.81546134663341
+        ],
+        "footX": 161.5,
+        "footY": 396
+      },
+      {
+        "muzzle": [
+          57.730673316708234,
+          -64.08977556109726
+        ],
+        "footX": 151.5,
+        "footY": 416
+      },
+      {
+        "muzzle": [
+          54.48877805486285,
+          -69.82543640897757
+        ],
+        "footX": 166.5,
+        "footY": 427
+      },
+      {
+        "muzzle": [
+          59.85037406483791,
+          -66.08478802992519
+        ],
+        "footX": 172,
+        "footY": 420
+      },
+      {
+        "muzzle": [
+          93.89027431421447,
+          -62.59351620947631
+        ],
+        "footX": 46.5,
+        "footY": 401
+      },
+      {
+        "muzzle": [
+          67.70573566084788,
+          -51.62094763092269
+        ],
+        "footX": 59.5,
+        "footY": 350
+      },
+      {
+        "muzzle": [
+          72.81795511221945,
+          -66.83291770573567
+        ],
+        "footX": 47,
+        "footY": 381
+      }
+    ],
+    "registration": {
+      "scale": 0.24937655860349128,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 355,
+          "sh": 391,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 354,
+          "maxY": 390,
+          "footX": 48,
+          "footY": 386,
+          "tipX": 350,
+          "tipY": 108,
+          "sourceX": 42,
+          "sourceY": 48
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 367,
+          "sh": 401,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 366,
+          "maxY": 400,
+          "footX": 161.5,
+          "footY": 396,
+          "tipX": 362,
+          "tipY": 100,
+          "sourceX": 493,
+          "sourceY": 38
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 389,
+          "sh": 421,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 388,
+          "maxY": 420,
+          "footX": 151.5,
+          "footY": 416,
+          "tipX": 383,
+          "tipY": 159,
+          "sourceX": 939,
+          "sourceY": 18
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 389,
+          "sh": 432,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 388,
+          "maxY": 431,
+          "footX": 166.5,
+          "footY": 427,
+          "tipX": 385,
+          "tipY": 147,
+          "sourceX": 1368,
+          "sourceY": 7
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 415,
+          "sh": 425,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 414,
+          "maxY": 424,
+          "footX": 172,
+          "footY": 420,
+          "tipX": 412,
+          "tipY": 155,
+          "sourceX": 23,
+          "sourceY": 445
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 427,
+          "sh": 406,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 426,
+          "maxY": 405,
+          "footX": 46.5,
+          "footY": 401,
+          "tipX": 423,
+          "tipY": 150,
+          "sourceX": 458,
+          "sourceY": 463
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 338,
+          "sh": 354,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 337,
+          "maxY": 353,
+          "footX": 59.5,
+          "footY": 350,
+          "tipX": 331,
+          "tipY": 143,
+          "sourceX": 936,
+          "sourceY": 523
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 344,
+          "sh": 385,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 343,
+          "maxY": 384,
+          "footX": 47,
+          "footY": 381,
+          "tipX": 339,
+          "tipY": 113,
+          "sourceX": 1376,
+          "sourceY": 492
+        }
+      ]
+    }
+  },
+  "attackv3_scepter": {
+    "weapon": "scepter",
+    "hero": "sera",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.58,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "healer_rods-source.png",
+    "points": [
+      {
+        "muzzle": [
+          59.47663551401869,
+          -65.10280373831776
+        ],
+        "footX": 37,
+        "footY": 218
+      },
+      {
+        "muzzle": [
+          81.17757009345794,
+          -65.10280373831776
+        ],
+        "footX": 22,
+        "footY": 215
+      },
+      {
+        "muzzle": [
+          71.53271028037383,
+          -22.102803738317757
+        ],
+        "footX": 29,
+        "footY": 212
+      },
+      {
+        "muzzle": [
+          79.36915887850468,
+          -79.97196261682242
+        ],
+        "footX": 28.5,
+        "footY": 214
+      },
+      {
+        "muzzle": [
+          83.58878504672897,
+          -71.53271028037383
+        ],
+        "footX": 98,
+        "footY": 200
+      },
+      {
+        "muzzle": [
+          105.08878504672897,
+          -69.5233644859813
+        ],
+        "footX": 23.5,
+        "footY": 200
+      },
+      {
+        "muzzle": [
+          38.981308411214954,
+          -31.345794392523363
+        ],
+        "footX": 99,
+        "footY": 206
+      },
+      {
+        "muzzle": [
+          63.294392523364486,
+          -65.90654205607477
+        ],
+        "footX": 35.5,
+        "footY": 215
+      }
+    ],
+    "registration": {
+      "scale": 0.40186915887850466,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 190,
+          "sh": 222,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 189,
+          "maxY": 221,
+          "footX": 37,
+          "footY": 218,
+          "tipX": 185,
+          "tipY": 56,
+          "sourceX": 39,
+          "sourceY": 11
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 230,
+          "sh": 219,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 229,
+          "maxY": 218,
+          "footX": 22,
+          "footY": 215,
+          "tipX": 224,
+          "tipY": 53,
+          "sourceX": 303,
+          "sourceY": 14
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 212,
+          "sh": 216,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 211,
+          "maxY": 215,
+          "footX": 29,
+          "footY": 212,
+          "tipX": 207,
+          "tipY": 157,
+          "sourceX": 585,
+          "sourceY": 17
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 237,
+          "sh": 218,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 236,
+          "maxY": 217,
+          "footX": 28.5,
+          "footY": 214,
+          "tipX": 226,
+          "tipY": 15,
+          "sourceX": 834,
+          "sourceY": 15
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 320,
+          "sh": 204,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 319,
+          "maxY": 203,
+          "footX": 98,
+          "footY": 200,
+          "tipX": 306,
+          "tipY": 22,
+          "sourceX": 1083,
+          "sourceY": 29
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 294,
+          "sh": 204,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 293,
+          "maxY": 203,
+          "footX": 23.5,
+          "footY": 200,
+          "tipX": 285,
+          "tipY": 27,
+          "sourceX": 1414,
+          "sourceY": 29
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 204,
+          "sh": 210,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 203,
+          "maxY": 209,
+          "footX": 99,
+          "footY": 206,
+          "tipX": 196,
+          "tipY": 128,
+          "sourceX": 1707,
+          "sourceY": 23
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 199,
+          "sh": 219,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 198,
+          "maxY": 218,
+          "footX": 35.5,
+          "footY": 215,
+          "tipX": 193,
+          "tipY": 51,
+          "sourceX": 1962,
+          "sourceY": 14
+        }
+      ]
+    }
+  },
+  "attackv3_bloom": {
+    "weapon": "bloom",
+    "hero": "sera",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.58,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "healer_rods-source.png",
+    "points": [
+      {
+        "muzzle": [
+          37.8479262672811,
+          -54.294930875576036
+        ],
+        "footX": 89.5,
+        "footY": 217
+      },
+      {
+        "muzzle": [
+          74.90322580645162,
+          -53.89861751152074
+        ],
+        "footX": 20,
+        "footY": 217
+      },
+      {
+        "muzzle": [
+          72.92165898617512,
+          -22.193548387096776
+        ],
+        "footX": 30,
+        "footY": 222
+      },
+      {
+        "muzzle": [
+          2.576036866359447,
+          -76.88479262672811
+        ],
+        "footX": 202.5,
+        "footY": 236
+      },
+      {
+        "muzzle": [
+          107.99539170506912,
+          -59.84331797235023
+        ],
+        "footX": 23.5,
+        "footY": 203
+      },
+      {
+        "muzzle": [
+          104.03225806451613,
+          -64.20276497695852
+        ],
+        "footX": 20.5,
+        "footY": 211
+      },
+      {
+        "muzzle": [
+          71.93087557603687,
+          -28.93087557603687
+        ],
+        "footX": 24.5,
+        "footY": 211
+      },
+      {
+        "muzzle": [
+          60.43778801843318,
+          -61.03225806451613
+        ],
+        "footX": 34.5,
+        "footY": 217
+      }
+    ],
+    "registration": {
+      "scale": 0.39631336405529954,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 205,
+          "sh": 233,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 204,
+          "maxY": 232,
+          "footX": 89.5,
+          "footY": 217,
+          "tipX": 185,
+          "tipY": 80,
+          "sourceX": 40,
+          "sourceY": 250
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 231,
+          "sh": 221,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 230,
+          "maxY": 220,
+          "footX": 20,
+          "footY": 217,
+          "tipX": 209,
+          "tipY": 81,
+          "sourceX": 301,
+          "sourceY": 250
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 220,
+          "sh": 226,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 219,
+          "maxY": 225,
+          "footX": 30,
+          "footY": 222,
+          "tipX": 214,
+          "tipY": 166,
+          "sourceX": 583,
+          "sourceY": 245
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 235,
+          "sh": 237,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 234,
+          "maxY": 236,
+          "footX": 202.5,
+          "footY": 236,
+          "tipX": 209,
+          "tipY": 42,
+          "sourceX": 839,
+          "sourceY": 246
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 317,
+          "sh": 207,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 316,
+          "maxY": 206,
+          "footX": 23.5,
+          "footY": 203,
+          "tipX": 296,
+          "tipY": 52,
+          "sourceX": 1087,
+          "sourceY": 264
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 305,
+          "sh": 215,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 304,
+          "maxY": 214,
+          "footX": 20.5,
+          "footY": 211,
+          "tipX": 283,
+          "tipY": 49,
+          "sourceX": 1405,
+          "sourceY": 256
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 226,
+          "sh": 215,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 225,
+          "maxY": 214,
+          "footX": 24.5,
+          "footY": 211,
+          "tipX": 206,
+          "tipY": 138,
+          "sourceX": 1705,
+          "sourceY": 256
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 207,
+          "sh": 221,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 206,
+          "maxY": 220,
+          "footX": 34.5,
+          "footY": 217,
+          "tipX": 187,
+          "tipY": 63,
+          "sourceX": 1964,
+          "sourceY": 250
+        }
+      ]
+    }
+  },
+  "attackv3_halo": {
+    "weapon": "halo",
+    "hero": "sera",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.58,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "healer_rods-source.png",
+    "points": [
+      {
+        "muzzle": [
+          40.9070796460177,
+          -78.00884955752213
+        ],
+        "footX": 92.5,
+        "footY": 227
+      },
+      {
+        "muzzle": [
+          55.176991150442475,
+          -73.4424778761062
+        ],
+        "footX": 88,
+        "footY": 221
+      },
+      {
+        "muzzle": [
+          39.384955752212385,
+          -22.07079646017699
+        ],
+        "footX": 106.5,
+        "footY": 226
+      },
+      {
+        "muzzle": [
+          82.95575221238937,
+          -80.67256637168141
+        ],
+        "footX": 19,
+        "footY": 226
+      },
+      {
+        "muzzle": [
+          112.44690265486724,
+          -69.63716814159292
+        ],
+        "footX": 25.5,
+        "footY": 213
+      },
+      {
+        "muzzle": [
+          105.97787610619469,
+          -69.63716814159292
+        ],
+        "footX": 23.5,
+        "footY": 215
+      },
+      {
+        "muzzle": [
+          77.0575221238938,
+          -19.02654867256637
+        ],
+        "footX": 23.5,
+        "footY": 215
+      },
+      {
+        "muzzle": [
+          41.28761061946903,
+          -76.48672566371681
+        ],
+        "footX": 89.5,
+        "footY": 226
+      }
+    ],
+    "registration": {
+      "scale": 0.3805309734513274,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 205,
+          "sh": 231,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 204,
+          "maxY": 230,
+          "footX": 92.5,
+          "footY": 227,
+          "tipX": 200,
+          "tipY": 22,
+          "sourceX": 34,
+          "sourceY": 483
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 238,
+          "sh": 225,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 237,
+          "maxY": 224,
+          "footX": 88,
+          "footY": 221,
+          "tipX": 233,
+          "tipY": 28,
+          "sourceX": 302,
+          "sourceY": 488
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 215,
+          "sh": 230,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 214,
+          "maxY": 229,
+          "footX": 106.5,
+          "footY": 226,
+          "tipX": 210,
+          "tipY": 168,
+          "sourceX": 584,
+          "sourceY": 483
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 242,
+          "sh": 230,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 241,
+          "maxY": 229,
+          "footX": 19,
+          "footY": 226,
+          "tipX": 237,
+          "tipY": 14,
+          "sourceX": 833,
+          "sourceY": 483
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 326,
+          "sh": 217,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 325,
+          "maxY": 216,
+          "footX": 25.5,
+          "footY": 213,
+          "tipX": 321,
+          "tipY": 30,
+          "sourceX": 1074,
+          "sourceY": 496
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 306,
+          "sh": 219,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 305,
+          "maxY": 218,
+          "footX": 23.5,
+          "footY": 215,
+          "tipX": 302,
+          "tipY": 32,
+          "sourceX": 1406,
+          "sourceY": 494
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 231,
+          "sh": 219,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 230,
+          "maxY": 218,
+          "footX": 23.5,
+          "footY": 215,
+          "tipX": 226,
+          "tipY": 165,
+          "sourceX": 1705,
+          "sourceY": 494
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 203,
+          "sh": 230,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 202,
+          "maxY": 229,
+          "footX": 89.5,
+          "footY": 226,
+          "tipX": 198,
+          "tipY": 25,
+          "sourceX": 1964,
+          "sourceY": 483
+        }
+      ]
+    }
+  },
+  "attackv3_bell": {
+    "weapon": "bell",
+    "hero": "sera",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.58,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "healer_relics-source.png",
+    "points": [
+      {
+        "muzzle": [
+          33.20474576271186,
+          -38.3822372881356
+        ],
+        "footX": 45,
+        "footY": 319
+      },
+      {
+        "muzzle": [
+          48.68766101694915,
+          -35.02969491525425
+        ],
+        "footX": 25.5,
+        "footY": 293
+      },
+      {
+        "muzzle": [
+          51.672881355932205,
+          -59.69857627118645
+        ],
+        "footX": 36.5,
+        "footY": 282
+      },
+      {
+        "muzzle": [
+          61.28447457627119,
+          -74.09993220338984
+        ],
+        "footX": 32.5,
+        "footY": 327
+      },
+      {
+        "muzzle": [
+          88.1164745762712,
+          -42.405288135593224
+        ],
+        "footX": 18.5,
+        "footY": 278
+      },
+      {
+        "muzzle": [
+          50.183186440677964,
+          -29.793898305084753
+        ],
+        "footX": 139.5,
+        "footY": 263
+      },
+      {
+        "muzzle": [
+          40.52203389830509,
+          -35.44366101694916
+        ],
+        "footX": 25.5,
+        "footY": 295
+      },
+      {
+        "muzzle": [
+          17.75389830508474,
+          -36.13166101694916
+        ],
+        "footX": 87.5,
+        "footY": 302
+      }
+    ],
+    "registration": {
+      "scale": 0.29152542372881357,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 227,
+          "sh": 323,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 226,
+          "maxY": 322,
+          "footX": 45,
+          "footY": 319,
+          "tipX": 158.89999999999998,
+          "tipY": 187.33999999999997,
+          "sourceX": 4,
+          "sourceY": 25
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 279,
+          "sh": 298,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 278,
+          "maxY": 297,
+          "footX": 25.5,
+          "footY": 293,
+          "tipX": 192.51,
+          "tipY": 172.83999999999997,
+          "sourceX": 241,
+          "sourceY": 50
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 285,
+          "sh": 286,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 284,
+          "maxY": 285,
+          "footX": 36.5,
+          "footY": 282,
+          "tipX": 213.75,
+          "tipY": 77.22,
+          "sourceX": 530,
+          "sourceY": 63
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 296,
+          "sh": 331,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 295,
+          "maxY": 330,
+          "footX": 32.5,
+          "footY": 327,
+          "tipX": 242.72,
+          "tipY": 72.82000000000001,
+          "sourceX": 813,
+          "sourceY": 18
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 396,
+          "sh": 282,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 395,
+          "maxY": 281,
+          "footX": 18.5,
+          "footY": 278,
+          "tipX": 320.76000000000005,
+          "tipY": 132.54,
+          "sourceX": 1080,
+          "sourceY": 67
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 371,
+          "sh": 268,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 370,
+          "maxY": 267,
+          "footX": 139.5,
+          "footY": 263,
+          "tipX": 311.64,
+          "tipY": 160.79999999999998,
+          "sourceX": 1370,
+          "sourceY": 82
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 235,
+          "sh": 299,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 234,
+          "maxY": 298,
+          "footX": 25.5,
+          "footY": 295,
+          "tipX": 164.5,
+          "tipY": 173.42,
+          "sourceX": 1710,
+          "sourceY": 51
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 212,
+          "sh": 307,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 211,
+          "maxY": 306,
+          "footX": 87.5,
+          "footY": 302,
+          "tipX": 148.39999999999998,
+          "tipY": 178.05999999999997,
+          "sourceX": 1955,
+          "sourceY": 45
+        }
+      ]
+    }
+  },
+  "attackv3_seraph": {
+    "weapon": "seraph",
+    "hero": "sera",
+    "frames": 8,
+    "width": 256,
+    "height": 192,
+    "anchor": [
+      96,
+      160
+    ],
+    "release": 4,
+    "attackDuration": 0.58,
+    "skillDuration": 0.96,
+    "completeBody": true,
+    "source": "seraph-source.png",
+    "points": [
+      {
+        "muzzle": [
+          42.027070707070706,
+          -34.53030303030303
+        ],
+        "footX": 52,
+        "footY": 405
+      },
+      {
+        "muzzle": [
+          34.91252525252525,
+          -36.037474747474754
+        ],
+        "footX": 118,
+        "footY": 402
+      },
+      {
+        "muzzle": [
+          39.56,
+          -61.318434343434355
+        ],
+        "footX": 58,
+        "footY": 411
+      },
+      {
+        "muzzle": [
+          70.88484848484849,
+          -64.68242424242425
+        ],
+        "footX": 59.5,
+        "footY": 388
+      },
+      {
+        "muzzle": [
+          92.53686868686869,
+          -40.611111111111114
+        ],
+        "footX": 29.5,
+        "footY": 380
+      },
+      {
+        "muzzle": [
+          83.45474747474748,
+          -29.18787878787879
+        ],
+        "footX": 45.5,
+        "footY": 345
+      },
+      {
+        "muzzle": [
+          40.09858585858586,
+          -32.66262626262627
+        ],
+        "footX": 84,
+        "footY": 385
+      },
+      {
+        "muzzle": [
+          40.876060606060605,
+          -33.74848484848485
+        ],
+        "footX": 64.5,
+        "footY": 396
+      }
+    ],
+    "registration": {
+      "scale": 0.21717171717171718,
+      "poses": [
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 341,
+          "sh": 410,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 340,
+          "maxY": 409,
+          "footX": 52,
+          "footY": 405,
+          "tipX": 245.51999999999998,
+          "tipY": 246,
+          "sourceX": 36,
+          "sourceY": 33
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 404,
+          "sh": 407,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 403,
+          "maxY": 406,
+          "footX": 118,
+          "footY": 402,
+          "tipX": 278.76,
+          "tipY": 236.05999999999997,
+          "sourceX": 422,
+          "sourceY": 37
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 316,
+          "sh": 415,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 315,
+          "maxY": 414,
+          "footX": 58,
+          "footY": 411,
+          "tipX": 240.16,
+          "tipY": 128.65,
+          "sourceX": 925,
+          "sourceY": 29
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 454,
+          "sh": 392,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 453,
+          "maxY": 391,
+          "footX": 59.5,
+          "footY": 388,
+          "tipX": 385.9,
+          "tipY": 90.16000000000001,
+          "sourceX": 1304,
+          "sourceY": 52
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 536,
+          "sh": 386,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 535,
+          "maxY": 385,
+          "footX": 29.5,
+          "footY": 380,
+          "tipX": 455.59999999999997,
+          "tipY": 193,
+          "sourceX": 17,
+          "sourceY": 468
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 494,
+          "sh": 351,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 493,
+          "maxY": 350,
+          "footX": 45.5,
+          "footY": 345,
+          "tipX": 429.78,
+          "tipY": 210.6,
+          "sourceX": 506,
+          "sourceY": 503
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 368,
+          "sh": 391,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 367,
+          "maxY": 390,
+          "footX": 84,
+          "footY": 385,
+          "tipX": 268.64,
+          "tipY": 234.6,
+          "sourceX": 951,
+          "sourceY": 465
+        },
+        {
+          "sx": 0,
+          "sy": 0,
+          "sw": 351,
+          "sh": 401,
+          "minX": 0,
+          "minY": 0,
+          "maxX": 350,
+          "maxY": 400,
+          "footX": 64.5,
+          "footY": 396,
+          "tipX": 252.72,
+          "tipY": 240.6,
+          "sourceX": 1389,
+          "sourceY": 458
+        }
+      ]
+    }
+  }
+}

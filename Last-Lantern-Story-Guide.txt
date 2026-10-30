@@ -1,0 +1,73 @@
+LAST LANTERN — THE DEBT OF DAWN
+Playable story adventure · 28 October 2026
+
+START
+Open Last-Lantern.html, choose New Game, then Play Story. Select your hero,
+weapon and class skill before starting. Refresh an already-open game tab.
+Existing gold, heroes, equipment, skills and camp upgrades remain available.
+Continue upgrades an older Story expedition to the new explorable maps.
+
+THE FIRST ROAD
+Read the arrival conversation, then walk toward Mara beside the camp lantern.
+Move close and press E, or use the on-screen Interact button. Speak to Mara
+to open the first warding gate. Follow the open corridor to Finch, accept
+his objective, and defeat the district's waves and guardian. Return to him
+afterward to open the next gate. People and quest objects are marked on the
+minimap. M opens the explored map; Q opens the quest log.
+
+WHAT CHANGED
+Story now has six explorable chapters, each with a safe entrance and five
+connected encounter districts. Each district has 20 waves; its guardian
+appears at 20, 40, 60, 80 or 100. Ordinary waves advance after every enemy is
+defeated. Waiting does not clear a wave. Gates close during combat.
+
+Witnesses need more than a guardian defeated. Rescue the courier, recover
+three physical memory items, operate both mechanisms, and choose whether
+to carry people or proof first. Complete the conversation before leaving
+a district. After the fifth district, interact with the glowing exit to
+travel to the next chapter. Your levels and build carry forward.
+
+The story follows the company's search for the names consumed by Brann's
+lantern: the woods, furnace, observatory, citadel, drowned abbey, and first
+flame. Thirty NPC objectives reveal the cost of the beacons. Choices on the
+road affect bonuses, later dialogue, the journal and the final epilogue.
+The final choice offers two endings.
+
+SOLID MAPS
+Story maps use real tile geometry. Walls and pillars stop walking, dashing,
+enemies and projectiles. Enemy navigation follows the same terrain. Crates
+block shots and movement, but can be broken by shooting or interacting.
+Floor and wall textures decorate the same geometry used for collision.
+These are handcrafted room layouts, not randomly generated dungeons.
+Campaign and Endless retain their existing arena maps and wave rules.
+
+PREPARATION AND SAVES
+Rest by the entrance lantern or speak with Nox. His single field dressing
+per chapter costs 120 x chapter gold and restores 40% health. Story choices
+can grant protection and healing, or a damage bonus. Recruitment and
+equipment prices retain the earlier progression rules.
+
+P pauses. Save & return keeps your position, current room, enemies, damaged
+crates, collected memories, mechanisms, dialogue page and decisions.
+Continue resumes that expedition. Completed objectives are not rewarded
+again by loading a save. Defeat offers the saved checkpoint and build.
+
+CONTROLS
+WASD / arrows / drag: move. Attacks aim automatically at visible enemies.
+Space: equipped skill. Shift: dash. E / Interact: talk, collect, operate.
+M: explored map. Q: quest log. P: pause.
+
+VERIFICATION
+87 engine integration checks pass using the embedded game script and native
+Canvas. Six-map connectivity, NPC reachability, all 600 story waves, gates,
+collision, projectile cover, save/restore and both choice paths were checked.
+Previews are native Canvas renders. Live browser layout, mobile play and
+full human difficulty/playtime testing have not been performed.
+
+BOSS ABILITIES
+All 30 bosses have two named skills. Warning circles, charge lanes, landing
+sigils and open wedges appear before release. Use cover against beams and
+projectiles, step out of marked impact circles, and dodge charges sideways.
+Stuns interrupt a cast; enough burst damage can break a healing ritual.
+Press B or use Skills on the boss health bar for a paused description of
+the current boss. The full list is in Last-Lantern-Boss-Skills.md.

@@ -1,0 +1,113 @@
+{
+  "cellWidth": 32,
+  "cellHeight": 32,
+  "framesPerRow": 8,
+  "framesPerSecond": 16,
+  "rows": [
+    "flame",
+    "frost",
+    "spirit",
+    "bolt",
+    "thorn",
+    "void",
+    "sun",
+    "blood",
+    "impact",
+    "dust",
+    "heal",
+    "spark"
+  ],
+  "source": "Procedural pixel sprites authored in work/combat-visuals-runtime.js; baked by the game itself without downloads",
+  "recipes": {
+    "sunburst": {
+      "theme": "sun",
+      "shape": "rays",
+      "radius": 175
+    },
+    "beacon": {
+      "theme": "sun",
+      "shape": "beacon",
+      "radius": 125
+    },
+    "soulflame": {
+      "theme": "void",
+      "shape": "fan",
+      "radius": 95
+    },
+    "starfall": {
+      "theme": "spirit",
+      "shape": "fan",
+      "radius": 95
+    },
+    "snare": {
+      "theme": "thorn",
+      "shape": "roots",
+      "radius": 210
+    },
+    "shadowstep": {
+      "theme": "void",
+      "shape": "veil",
+      "radius": 85
+    },
+    "inferno": {
+      "theme": "flame",
+      "shape": "flames",
+      "radius": 210
+    },
+    "frostnova": {
+      "theme": "frost",
+      "shape": "crystals",
+      "radius": 270
+    },
+    "meteors": {
+      "theme": "void",
+      "shape": "constellation",
+      "radius": 110
+    },
+    "earthshatter": {
+      "theme": "impact",
+      "shape": "fissure",
+      "radius": 155
+    },
+    "ironwill": {
+      "theme": "sun",
+      "shape": "guard",
+      "radius": 140
+    },
+    "shockwave": {
+      "theme": "bolt",
+      "shape": "thunder",
+      "radius": 130
+    },
+    "sanctuary": {
+      "theme": "heal",
+      "shape": "petals",
+      "radius": 175
+    },
+    "renewal": {
+      "theme": "heal",
+      "shape": "bloom",
+      "radius": 125
+    },
+    "judgment": {
+      "theme": "sun",
+      "shape": "judgment",
+      "radius": 110
+    },
+    "overdrive": {
+      "theme": "sun",
+      "shape": "volley",
+      "radius": 90
+    },
+    "ricochet": {
+      "theme": "bolt",
+      "shape": "volley",
+      "radius": 90
+    },
+    "turret": {
+      "theme": "bolt",
+      "shape": "assembly",
+      "radius": 55
+    }
+  }
+}

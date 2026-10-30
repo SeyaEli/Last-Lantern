@@ -1,0 +1,177 @@
+LAST LANTERN — THE DEBT OF DAWN
+Offline modes edition • 25 October 2026
+
+START PLAYING
+Double-click Last-Lantern.html. Everything required to play is embedded in
+that file. No installation, account, server, or internet connection is needed.
+If the game is already open, refresh the tab to load this edition.
+
+HOME AND YOUR SAVE
+Continue restores your saved expedition, including its hero, weapon, skills,
+wave, health, blessings, cooldowns, enemies, and projectiles.
+New Game opens mode selection. Starting a new expedition keeps your gold,
+purchased heroes and weapons, trained skills, journal, and camp upgrades.
+If another expedition is saved, you must confirm before replacing it.
+
+Use Pause > Save & return to home whenever you want to stop or manage camp.
+The expedition also saves periodically, on rewards, and when leaving the tab.
+Use Export save for a portable backup, including the current expedition.
+Use Import save at camp to restore an exported file. Older valid saves keep
+their gold and unlocks. Saves are local to the browser and file location;
+export before moving the file or switching browsers.
+
+GAME MODES
+CAMPAIGN — THE SIX BEACONS
+Six scrolling 2400 x 1500 maps, each with 100 waves. Bosses arrive at waves
+20, 40, 60, 80, and 100. Boss waves stop advancing until the boss is defeated.
+That is 600 campaign waves and 30 named boss encounters, with different
+enemy silhouettes and escalating attack patterns across the five sections.
+Campaign allows starting at an already-unlocked map.
+
+STORY — THE DEBT OF DAWN
+Brann's last lantern consumes memories to keep the darkness away. Discover
+who built the six beacons and choose what a sunrise is worth. Six acts,
+thirty boss discoveries, an introduction to each act, two ending choices,
+and a persistent journal accompany the same 100-wave map structure.
+Rescue survivors, defend beacons, and recover relics for optional rewards.
+No character purchase is required to understand or finish the story.
+Story expeditions begin in the Whispering Woods.
+
+ENDLESS — THE LONG NIGHT
+Begin in the woods and survive indefinitely. Bosses appear every 20 waves;
+the map changes every 100. After the sixth map, another stronger cycle begins.
+Best wave and score are stored locally. Endless does not grant campaign wins.
+
+THE SIX REALMS
+1. Whispering Woods — The Hollow King
+2. Cinder Quarry — Cindermaw
+3. Frostfall Ruins — Eclipse Matriarch
+4. Ashen Citadel — The Iron Tyrant
+5. Drowned Necropolis — The Grave Cantor
+6. Obsidian Throne — The Ashen Sovereign
+Each final ruler is preceded by four named wardens. Boss variants reuse
+the game's enemy art with distinct rigs and progressively stronger patterns.
+There are not thirty separately painted boss sprite sheets.
+
+WAVES AND CHECKPOINTS
+Normal waves last about 18–24 seconds, becoming quicker in later sections.
+Boss fights extend this time. New enemies gain health every wave and a
+larger health increase on later maps. Spawn groups and population caps grow.
+Bosses telegraph their projectiles, charges, and marked ground attacks.
+
+Defeating a boss banks rewards, heals 25%, and refreshes skill and dash.
+Continue from its break screen to create the next section's checkpoint.
+Defeat offers a retry with the build saved at that checkpoint. Earned gold
+stays banked. Cleared checkpoint rewards are not granted again on Continue.
+Entering the next campaign/story map restores 35% health and carries levels
+and blessings forward. Level damage growth is capped at 6x starting damage;
+attack rate, movement speed, armor, and regeneration also have safety caps.
+
+CONTROLS
+WASD / arrow keys: move. Space: equipped class skill. Shift: dash.
+P / Escape: pause. Attacks automatically aim at targets within class range.
+Touch: drag the battlefield to move; use the Dash and skill buttons.
+Walk, attack, skill, hurt, and dash poses animate complete armed heroes.
+Dash afterimages record where your hero actually travelled.
+Enemy animations include movement, wings or spirit tails, windup, attack,
+charge, hurt, and defeat poses. Avoid the ring or line before impact.
+
+WEAPON SHOP AND CHARACTERS
+These are dedicated screens, alongside Skills, Camp, and Journal.
+Brann is the starting Lantern Keeper. Other recruitment prices:
+Rook / Brawler: 150,000 gold
+Nyx / Archer: 250,000 gold
+Orin / Mage: 500,000 gold
+Sera / Healer: 800,000 gold
+Jax / Gunner: 1,200,000 gold
+Previously unlocked characters remain unlocked.
+
+All classes have free starter weapons. The Weapon Shop only offers
+equipment compatible with your selected class. Each of the 31 weapons has
+a complete armed hero image, with the grip painted into the character.
+The action sheets now contain 255 registered poses across 32 sequences;
+all 31 weapons have complete attack clips and distinct release effects.
+Nine new eight-frame sequences cover Thornpiercer, Eclipse Lantern, Moonlit
+Lantern, Void Fang, Sunbreaker Cannon, Obsidian Harbinger, Void Repeater,
+Hunter's Bow, and Phoenix Recurve. Faster attacks accelerate animation
+playback while retaining the release and recovery.
+
+Rare equipment: 18,000 gold — clear chapter 1
+Epic equipment: 180,000 gold — clear chapter 2
+Legendary equipment: 2,500,000 gold — clear chapter 4
+Mythic equipment: 25,000,000 gold — reach chapter 6 and win 3 expeditions
+Already-owned equipment remains usable. Ordinary kills pay modest amounts;
+boss, elite, objective, and later-map rewards provide the larger payouts.
+
+SKILLS — THREE PER CLASS, ONE EQUIPPED
+Brann: Sunburst, Guiding Beacon, Soulflame
+Nyx: Starfall, Snare Volley, Shadow Step
+Orin: Inferno, Frost Nova, Astral Rain
+Rook: Earthshatter, Iron Will, Thunderclap
+Sera: Sanctuary, Renewal, Dawn Judgment
+Jax: Overdrive, Arc Barrage, Sentry Lantern
+The first skill is free. Alternatives cost 25,000 and 180,000 gold to learn.
+All eighteen skills can train to rank 200, adding 1% potency per rank.
+Your active class remembers its selected skill. Skill effects include roots,
+freezes, delayed impacts, healing fields, guards, spirit shots and sentries.
+
+CAMP — TEN TRACKS, 200 LEVELS EACH
+Tempered steel: starting weapon damage
+Quickdraw: attack speed, with a minimum interval
+Keeper's heart: starting health
+Brighter flame: skill strength
+Trailblazer: movement speed, with diminishing returns
+Lantern workshop: offline gold, stored for up to eight hours
+Watchtower: up to 30% permanent damage reduction
+Field infirmary: up to 3 HP regenerated per second
+Salvage guild: up to 100% extra combat gold
+Lantern research: up to 35% shorter skill cooldowns
+Every track shows current benefit, next benefit, level, price and milestone.
+Purchases apply to new expeditions. Continuing a saved expedition preserves
+the equipment and build with which it was saved.
+
+MAP GUIDE
+The camera follows the hero across a world larger than the visible arena.
+The minimap shows enemies, limited healing shrines, caches and objectives.
+Pale squares mark objective locations. Stand close to rescue survivors;
+hold the marked beacon/relic circles to make progress on other objectives.
+Map buildings and environmental art are decorative, not collision obstacles.
+
+ART AND VALIDATION
+The art/ folder contains source cutouts, normalized action sheets and notes.
+It is optional for playing: the HTML contains all runtime assets.
+Animation GIFs and realm/roster previews demonstrate the current art.
+See Last-Lantern-Validation.txt for tested behavior and verification limits.
+
+WALKING FIX: Every weapon loadout now has a separate eight-frame full-body walking cycle (31 cycles / 248 poses). Body, legs, coat and held weapon stay together. Complete attack and skill poses take priority during their actions. Steps follow distance travelled. See Last-Lantern-walking-preview.gif. Refresh the game to load this update; existing saves are retained.
+
+STORY ADVENTURE UPDATE: Play Story to explore six connected chapters with named NPC conversations, thirty objectives, solid walls, gated districts, destructible crates and saved quest progress. E talks and interacts; M opens the explored map; Q opens your quest log. Begin by speaking to Mara. See Last-Lantern-Story-Guide.txt.
+
+BOSS SKILLS UPDATE: All 30 bosses now have two named special skills each (60 total), across Campaign, Story and Endless. Read their attack name and warning on the boss health bar. Press B or click Skills during the encounter to read its abilities. Below half health they cast more often, while warning times remain unchanged. Refresh the game tab to load the update; Continue preserves saved expeditions. See Last-Lantern-Boss-Skills.md and Last-Lantern-boss-skills-preview.gif.
+
+COMBAT VISUALS UPDATE (30 October 2026): Enemy windups, cast releases and melee swipes now have animated effects. Projectiles have eight-frame pixel sprites, sampled travel trails, weapon-tip muzzle flashes and collision bursts. All 18 hero skills have release effects; all 60 boss skills have themed casting, portals, eruptions, beams, shockwaves and charge wakes. Healing fields, burning ground, sentries, shields, treasure and ember pickups are animated. Refresh the game tab to load the update, then Continue. Everything stays offline. See Last-Lantern-combat-preview.gif, Last-Lantern-skills-gallery.png and Last-Lantern-boss-skills-preview.gif.
+
+ALL-WEAPON ATTACK UPDATE (30 October 2026)
+All 31 weapons now have complete attack clips: 13 new sequences add 104
+whole-body poses for all gauntlets, healer relics and rods, Apprentice Wand,
+Frostbinder Staff, Ember Staff, Stormbow and Dawnseeker Lantern. Every
+weapon has weighted windup, a visible contact pose, follow-through and
+recovery. Hits and projectiles release on the registered contact frame.
+Legendary and mythic equipment adds richer charge and release effects,
+including phoenix feathers, solar lances, spirit wisps, lightning and
+crimson void ruptures. Refresh the game, then Continue your expedition.
+
+Watch Last-Lantern-premium-attacks.mp4 for the strongest equipment, or
+Last-Lantern-all-weapon-attacks.mp4 to browse every weapon. GIF copies and
+a contact-pose gallery are included. Sources and prompts are in
+art/weapon-attacks-v3/. The game still plays from the single HTML file.
+
+HARDER WAVES AND BOSSES (30 October 2026)
+Enemy health and damage rise every wave across chapter boundaries.
+Elite hunts arrive every five ordinary waves. Story has larger groups
+and paced boss reinforcements. Bosses chain two skills below 50% health
+and three below 25%, with full warnings and recovery windows. Repeated
+stuns trigger brief stagger protection, shown by a dashed ring.
+Refresh Last-Lantern.html, then Continue. Existing saved enemies retain
+their current stats; new enemies use the harder balance. Read
+Last-Lantern-Difficulty.md for the progression details.

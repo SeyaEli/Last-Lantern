@@ -1,0 +1,63 @@
+LAST LANTERN — REFERENCE ART EDITION
+
+These transparent sprites were prepared with the built-in image generation
+tool from the three artwork references supplied in this chat. The supplied
+hero clothing, colors, silhouettes and equipment guided Brann, Nyx and Orin.
+The enemy reference guided Wisp and Shade Bat; the weapon reference guided
+Iron Blade, Silver Edge, Ember Staff, Stormbow and Void Fang.
+
+The Hollow King is a newly generated boss matched to those references.
+Enemy variants in the game reuse the wisp art with distinct size, color,
+opacity and equipment. The game adds bobbing, wing movement, facing changes,
+hit flashes, weapon motion, attack trails and an enraged boss treatment.
+The animation edition rigs these cutouts into real frame atlases at launch:
+idle, walking, attacking, dash/charge, skill, hurt and defeat. Legs, robe
+strips, casting arms and bat wings use separate motions. These poses are
+generated from the supplied artwork rather than individually hand-painted
+directional frames. Left/right facing uses mirroring.
+
+The animations/ folder contains the same baked frame sheets as PNG files.
+Its frames.json describes the frame size, count, timing and foot anchor.
+The game creates these sheets in memory, so the PNG exports are optional.
+
+The game HTML embeds every required sprite. The PNGs in this folder are
+also provided separately for future development; they are not needed to
+launch the standalone HTML file. The original generated atlas is retained
+as Last-Lantern-sprite-sheet.png. Individual cutouts were cropped, cleaned
+at atlas boundaries, resized and checked against a dark game background.
+
+GENERATION MODE
+Built-in image generation. Transparent background requested and retained.
+
+FINAL GENERATION PROMPT
+Create a production-ready transparent sprite asset atlas for the offline
+pixel RPG Last Lantern, using the attached images as the design sources.
+Preserve the three heroes' specific silhouettes, clothing, colors and
+equipment from image 1: Brann brown/gold explorer with broad hat, backpack
+and tall lantern crook; Nyx green hooded masked ranger, flowing cloak and
+glowing green bow; Orin purple hat/robe mage with staff and open spellbook.
+Preserve Wisp's green haunted face, streaming ghost tail, pale yellow
+square eyes, and Shade Bat's purple angular wings and pale yellow square
+eyes from image 2. Preserve the five standalone weapon designs in image 3.
+Remove all source text, labels, borders, panels, palette swatches and
+backgrounds. The only new subject is The Hollow King: a menacing broad
+crowned hollow-wood forest monarch, gnarled roots, weathered purple armor,
+spectral gold eyes, large golden spiked crown, torn purple cape, purple
+magical embers; visually matched to those references. Also include a
+standalone brass glowing lantern hanging from a small iron hook. Pixel
+art, detailed 16-bit RPG sprites, hard pixel edges, readable silhouette,
+full-body 3/4 front view for characters. A precisely regular THREE COLUMNS
+by FOUR ROWS atlas, portrait 1536x2048, each equal square 512x512 cell on
+TRUE TRANSPARENT background, each isolated asset centered and completely
+within its cell with at least 35px clear padding. Exact ordering: row 1:
+Brann / Nyx / Orin. Row 2: Wisp / Shade Bat (wings spread) / Hollow King.
+Row 3: Iron Blade (silver steel sword with brown handle) / Silver Edge
+(blue glowing jeweled sword) / Ember Staff (wooden staff with orange
+burning crystal). Row 4: Stormbow (green magical recurve bow) / Void Fang
+(curved purple dagger) / standalone brass lantern. One subject per cell,
+exactly 12 subjects, no duplicates. No ground planes or shadows outside
+character silhouettes, no opaque backdrop, no text anywhere. These are
+actual usable game cutouts, not a presentation or concept board.
+
+The generated atlas did not use uniform cell dimensions; each final PNG
+was isolated with its own crop to preserve the produced character art.

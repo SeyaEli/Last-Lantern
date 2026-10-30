@@ -1,0 +1,552 @@
+{
+  "codex": {
+    "frames": 8,
+    "width": 224,
+    "height": 240,
+    "anchor": [
+      90,
+      200
+    ],
+    "release": 4,
+    "attackDuration": 0.56,
+    "skillDuration": 0.96,
+    "points": [
+      {
+        "footX": 190.5,
+        "footY": 553,
+        "muzzle": null
+      },
+      {
+        "footX": 181.5,
+        "footY": 553,
+        "muzzle": null
+      },
+      {
+        "footX": 180,
+        "footY": 553,
+        "muzzle": null
+      },
+      {
+        "footX": 190.5,
+        "footY": 553,
+        "muzzle": null
+      },
+      {
+        "footX": 174.5,
+        "footY": 462,
+        "muzzle": [
+          19.8,
+          -67.2
+        ]
+      },
+      {
+        "footX": 184,
+        "footY": 462,
+        "muzzle": null
+      },
+      {
+        "footX": 181,
+        "footY": 462,
+        "muzzle": null
+      },
+      {
+        "footX": 188,
+        "footY": 462,
+        "muzzle": null
+      }
+    ]
+  },
+  "archmage": {
+    "frames": 7,
+    "width": 224,
+    "height": 240,
+    "anchor": [
+      90,
+      200
+    ],
+    "release": 4,
+    "attackDuration": 0.56,
+    "skillDuration": 0.96,
+    "points": [
+      {
+        "footX": 182.5,
+        "footY": 624,
+        "muzzle": null
+      },
+      {
+        "footX": 185.5,
+        "footY": 625,
+        "muzzle": null
+      },
+      {
+        "footX": 179.5,
+        "footY": 624,
+        "muzzle": null
+      },
+      {
+        "footX": 197,
+        "footY": 625,
+        "muzzle": null
+      },
+      {
+        "footX": 175,
+        "footY": 415,
+        "muzzle": [
+          35.4,
+          -69.4
+        ]
+      },
+      {
+        "footX": 230,
+        "footY": 419,
+        "muzzle": null
+      },
+      {
+        "footX": 195.5,
+        "footY": 419,
+        "muzzle": null
+      }
+    ]
+  },
+  "crook_attack": {
+    "frames": 8,
+    "width": 224,
+    "height": 240,
+    "anchor": [
+      90,
+      200
+    ],
+    "release": 4,
+    "attackDuration": 0.56,
+    "skillDuration": 0.96,
+    "points": [
+      {
+        "footX": 158.5,
+        "footY": 601,
+        "muzzle": null
+      },
+      {
+        "footX": 165.5,
+        "footY": 601,
+        "muzzle": null
+      },
+      {
+        "footX": 150.5,
+        "footY": 601,
+        "muzzle": null
+      },
+      {
+        "footX": 152.5,
+        "footY": 601,
+        "muzzle": null
+      },
+      {
+        "footX": 174.5,
+        "footY": 437,
+        "muzzle": null
+      },
+      {
+        "footX": 187.5,
+        "footY": 437,
+        "muzzle": null
+      },
+      {
+        "footX": 189.5,
+        "footY": 437,
+        "muzzle": null
+      },
+      {
+        "footX": 167,
+        "footY": 437,
+        "muzzle": null
+      }
+    ]
+  },
+  "crook_skill": {
+    "frames": 8,
+    "width": 224,
+    "height": 240,
+    "anchor": [
+      90,
+      200
+    ],
+    "release": 4,
+    "attackDuration": 0.56,
+    "skillDuration": 0.96,
+    "points": [
+      {
+        "footX": 187,
+        "footY": 605,
+        "muzzle": null
+      },
+      {
+        "footX": 191.5,
+        "footY": 605,
+        "muzzle": null
+      },
+      {
+        "footX": 161.5,
+        "footY": 605,
+        "muzzle": null
+      },
+      {
+        "footX": 191.5,
+        "footY": 605,
+        "muzzle": null
+      },
+      {
+        "footX": 172.5,
+        "footY": 430,
+        "muzzle": null
+      },
+      {
+        "footX": 208.5,
+        "footY": 431,
+        "muzzle": null
+      },
+      {
+        "footX": 151,
+        "footY": 434,
+        "muzzle": null
+      },
+      {
+        "footX": 187,
+        "footY": 433,
+        "muzzle": null
+      }
+    ]
+  },
+  "soulfire": {
+    "frames": 8,
+    "width": 224,
+    "height": 240,
+    "anchor": [
+      90,
+      200
+    ],
+    "release": 4,
+    "attackDuration": 0.56,
+    "skillDuration": 0.96,
+    "points": [
+      {
+        "footX": 162,
+        "footY": 526,
+        "muzzle": null
+      },
+      {
+        "footX": 94,
+        "footY": 526,
+        "muzzle": null
+      },
+      {
+        "footX": 101.5,
+        "footY": 526,
+        "muzzle": null
+      },
+      {
+        "footX": 103.5,
+        "footY": 524,
+        "muzzle": null
+      },
+      {
+        "footX": 144.5,
+        "footY": 360,
+        "muzzle": null
+      },
+      {
+        "footX": 204,
+        "footY": 360,
+        "muzzle": null
+      },
+      {
+        "footX": 207,
+        "footY": 368,
+        "muzzle": null
+      },
+      {
+        "footX": 168.5,
+        "footY": 367,
+        "muzzle": null
+      }
+    ]
+  },
+  "iron": {
+    "frames": 8,
+    "width": 224,
+    "height": 240,
+    "anchor": [
+      90,
+      200
+    ],
+    "release": 4,
+    "attackDuration": 0.56,
+    "skillDuration": 0.96,
+    "points": [
+      {
+        "footX": 179.5,
+        "footY": 536,
+        "muzzle": null
+      },
+      {
+        "footX": 162.5,
+        "footY": 536,
+        "muzzle": null
+      },
+      {
+        "footX": 151,
+        "footY": 537,
+        "muzzle": null
+      },
+      {
+        "footX": 99.5,
+        "footY": 542,
+        "muzzle": null
+      },
+      {
+        "footX": 169,
+        "footY": 421,
+        "muzzle": null
+      },
+      {
+        "footX": 164.5,
+        "footY": 425,
+        "muzzle": null
+      },
+      {
+        "footX": 182.5,
+        "footY": 427,
+        "muzzle": null
+      },
+      {
+        "footX": 153,
+        "footY": 426,
+        "muzzle": null
+      }
+    ]
+  },
+  "silver": {
+    "frames": 8,
+    "width": 224,
+    "height": 240,
+    "anchor": [
+      90,
+      200
+    ],
+    "release": 4,
+    "attackDuration": 0.56,
+    "skillDuration": 0.96,
+    "points": [
+      {
+        "footX": 140.5,
+        "footY": 514,
+        "muzzle": null
+      },
+      {
+        "footX": 188.5,
+        "footY": 516,
+        "muzzle": null
+      },
+      {
+        "footX": 155,
+        "footY": 516,
+        "muzzle": null
+      },
+      {
+        "footX": 165.5,
+        "footY": 515,
+        "muzzle": null
+      },
+      {
+        "footX": 139.5,
+        "footY": 382,
+        "muzzle": null
+      },
+      {
+        "footX": 179.5,
+        "footY": 383,
+        "muzzle": null
+      },
+      {
+        "footX": 179.5,
+        "footY": 384,
+        "muzzle": null
+      },
+      {
+        "footX": 147,
+        "footY": 384,
+        "muzzle": null
+      }
+    ]
+  },
+  "rifle": {
+    "frames": 8,
+    "width": 224,
+    "height": 240,
+    "anchor": [
+      90,
+      200
+    ],
+    "release": 4,
+    "attackDuration": 0.38,
+    "skillDuration": 0.96,
+    "points": [
+      {
+        "footX": 170,
+        "footY": 533,
+        "muzzle": null
+      },
+      {
+        "footX": 179.5,
+        "footY": 533,
+        "muzzle": null
+      },
+      {
+        "footX": 166.5,
+        "footY": 533,
+        "muzzle": null
+      },
+      {
+        "footX": 164.5,
+        "footY": 533,
+        "muzzle": null
+      },
+      {
+        "footX": 171.5,
+        "footY": 482,
+        "muzzle": [
+          33.2,
+          -64.9
+        ]
+      },
+      {
+        "footX": 191,
+        "footY": 481,
+        "muzzle": null
+      },
+      {
+        "footX": 153.5,
+        "footY": 482,
+        "muzzle": null
+      },
+      {
+        "footX": 174,
+        "footY": 482,
+        "muzzle": null
+      }
+    ]
+  },
+  "stormcoil": {
+    "frames": 8,
+    "width": 224,
+    "height": 240,
+    "anchor": [
+      90,
+      200
+    ],
+    "release": 3,
+    "attackDuration": 0.38,
+    "skillDuration": 0.96,
+    "points": [
+      {
+        "footX": 146,
+        "footY": 528,
+        "muzzle": null
+      },
+      {
+        "footX": 123.5,
+        "footY": 528,
+        "muzzle": null
+      },
+      {
+        "footX": 124.5,
+        "footY": 528,
+        "muzzle": null
+      },
+      {
+        "footX": 121.5,
+        "footY": 528,
+        "muzzle": [
+          26.9,
+          -52.7
+        ]
+      },
+      {
+        "footX": 162.5,
+        "footY": 396,
+        "muzzle": null
+      },
+      {
+        "footX": 142,
+        "footY": 396,
+        "muzzle": null
+      },
+      {
+        "footX": 130.5,
+        "footY": 396,
+        "muzzle": null
+      },
+      {
+        "footX": 149.5,
+        "footY": 396,
+        "muzzle": null
+      }
+    ]
+  },
+  "eclipsebow": {
+    "frames": 8,
+    "width": 224,
+    "height": 240,
+    "anchor": [
+      90,
+      200
+    ],
+    "release": 4,
+    "attackDuration": 0.56,
+    "skillDuration": 0.96,
+    "points": [
+      {
+        "footX": 167.5,
+        "footY": 531,
+        "muzzle": null
+      },
+      {
+        "footX": 172,
+        "footY": 531,
+        "muzzle": null
+      },
+      {
+        "footX": 166.5,
+        "footY": 531,
+        "muzzle": null
+      },
+      {
+        "footX": 167,
+        "footY": 532,
+        "muzzle": null
+      },
+      {
+        "footX": 174.5,
+        "footY": 461,
+        "muzzle": [
+          36.6,
+          -56
+        ]
+      },
+      {
+        "footX": 172.5,
+        "footY": 461,
+        "muzzle": null
+      },
+      {
+        "footX": 177.5,
+        "footY": 461,
+        "muzzle": null
+      },
+      {
+        "footX": 179.5,
+        "footY": 461,
+        "muzzle": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+LAST LANTERN — MODES EDITION VALIDATION
+25 October 2026
+
+87 integration checks passed against the final embedded game script.
+The harness uses Node and native Canvas with a minimal DOM and preloaded
+copies of the same embedded assets. It exercises game behavior directly.
+
+Checked:
+- New accounts, legacy migration, and level-200 save validation.
+- All ten camp tracks stop at 200 and do not charge beyond the cap.
+- All eighteen class skills can be learned, equipped and trained to 200.
+- Campaign traverses all 600 waves and exactly 30 boss encounters.
+- Boss waves do not advance until the boss is defeated.
+- Story traverses six acts and thirty discoveries, then saves its ending.
+- Endless continues beyond total wave 600 and increases enemy vitality.
+- Enemy health, damage, group size and population limits grow as intended.
+- Continue restores health, position, level, weapon, cooldown bonuses,
+  pending blessings, boss breaks and projectile hit history.
+- Invalid expedition data is discarded while valid account progress remains.
+- Resuming a defeated boss's break does not duplicate its rewards.
+- Saving during a wave-100 story discovery resumes into the next map;
+  it cannot accidentally create wave 101 in a campaign/story map.
+- All eighteen skills produce their expected effects after cast delays.
+- Enemy shots wait for visible casting windup and dead enemies do not fire.
+- Enemy walk, windup, attack and death atlas frames are distinct.
+- Dash afterimages follow actual travelled points, freeze on pause and expire.
+- No external scripts, images, fonts, fetch calls, sockets or runtime asset
+  downloads are required by the standalone HTML.
+- Management routes produce their expected content in the DOM harness.
+- Level-200 bonuses and long-run damage, movement, armor and haste stay bounded.
+- All three optional objective types grant their rewards only once.
+- Normal hero damage waits for the action contact frame.
+- Every ranged weapon emits at its registered rendered tip in both directions.
+- All nineteen action sheets decode to 151 nonempty, distinct poses.
+- All 31 weapons retain complete armed hero art and animated locomotion.
+- A 150-enemy, up-to-320-projectile simulation updates with bounded objects.
+
+Visual verification:
+Current hero action atlases, the class roster, six realm views, and enemy
+movement/casting/death sequences were rendered from the actual game drawing
+functions and inspected. The supplied and imagegen-normalized sheets are
+included in art/provided-actions/. The art notes describe which animation
+sequences use painted poses and which use procedural rigs.
+
+Verification limits:
+The local browser preview was blocked when origin permission was declined.
+No subsequent workaround browser connection was used. The final menu layout,
+responsive behavior and actual browser frame rate therefore still need a
+live browser playtest. This edition's checks are engine integration tests
+and offline Canvas art renders, not a claim of 60 FPS on every device.
+
+A prolonged combined native rendering stress run did not complete in the
+test harness. An isolated six-frame native render at 150 enemies and 320
+projectiles completed. The normal 90-frame load check measures simulation
+updates only. Extended browser play and memory profiling remain unverified.
+
+Full-session difficulty, gold earned per hour, and the grind required for
+legendary/mythic purchases have not been measured with human playtests.
+The price and health curves are implemented tuning choices, not validated
+retention or commercial-success claims.
+
+Story maps now use solid tile geometry. Campaign and Endless retain their earlier arena scenery.
+Thirty boss encounters use variants of existing enemy and ruler art,
+rather than thirty separate hand-painted boss animation sheets.
+
+Nine-weapon update: all nine reference weapons have eight-frame attack and
+skill bindings. Weapon tips are registered per frame. Skill release waits
+for frame four, and faster normal attacks accelerate their pose sequence
+while completing recovery before restarting. Three additional checks pass.
+Original sheets, packed atlases and prompts are in art/weapon-actions-v2/
+and art/NINE-WEAPON-ANIMATION-NOTES.txt. Source-cell flare edges are tapered
+at draw time; no extra background or character is painted over the hero.
+
+WALKING FIX (2026-10-25): 32 integration checks passed against the final HTML. All 31 variants use separate complete-body eight-frame source sheets. Walking advances by actual distance and freezes at rest, on pause and while dashing. Moving attacks retain their complete action silhouette in both facings; walking legs are never grafted onto a different torso. Native Canvas previews inspected, including Brann with Void Fang. Live browser playtesting was not performed. Directions use horizontal mirroring; dedicated front/back sprites are not included. See art/WALKING-FIX-ART-NOTES.txt and art/WALKING-SPACING-PROMPT.txt for selected source files and built-in imagegen prompts.
+
+STORY ADVENTURE UPDATE (28 October 2026): 45 integration checks pass against the final HTML. The updated story traverses six chapters and thirty NPC objectives through all 600 enemy-cleared waves. Tests cover graph connectivity, reachable NPCs and mechanisms, solid walls and locked gates, fast dash collision, projectile cover, crate destruction, enemy navigation, mid-dialogue Continue, duplicate reward protection on loading, legacy migration, corrupt quest data rejection, and persisted items, switches, choices and crate damage. Six NPC archetypes and twelve terrain textures are embedded. Source prompts are in art/STORY-ADVENTURE-ART-NOTES.txt. Story scenes and maps were rendered and inspected with native Canvas. Live browser layout, mobile interaction, human playtime/difficulty balance and browser frame rate remain unverified. Room layouts are authored rather than randomly generated; named NPCs share six visual archetypes. The physical map and new quest progression apply to Story Mode.
+
+NPC DIALOG FIX (30 October 2026): The shared NPC completion handler now closes the native dialog before resuming the world and focusing the game canvas. A regression test reproduced the stuck Back to the road modal before this fix. All 48 integration checks now pass, including native-dialog open state, resumed movement, saved conversation clearing, every NPC completion type, and Save & return/Continue behavior. The dialog API is exercised through the native Canvas/minimal-DOM harness; live browser playtesting remains unverified.
+
+BOSS SKILLS UPDATE (30 October 2026): All 62 engine integration checks pass. Every named boss has two registered skills: 60 names across 12 shared mechanics, with boss-specific combinations, sizes and patterns. Every skill was tested for warning rendering, delayed release and its actual effect. Additional checks cover all Story ground targets, enrage without shortened warning time, interruptions, owner-specific cleanup on boss death, late-projectile suppression in the same frame, armor/shields/hit-once damage, shockwave edges, cover against charges and beams, blink landing, mid-cast and active-field Continue, paused timers, all three game modes, guide closure and bounded reinforcements/projectiles. Native Canvas warning/release previews were inspected. Live browser interaction, mobile layout, browser FPS and human difficulty balance remain unverified. New warnings and attack effects are code-drawn Canvas graphics using the existing art; no new boss sprite artwork is claimed.
+
+COMBAT VISUALS UPDATE (30 October 2026): 70 engine checks pass against the rebuilt embedded game. Added 12 pixel-effect atlases (8 frames each, 96 cells) generated entirely within Canvas. Tested distinct transparent frames; actual-release VFX for all 18 skills; every ranged weapon firing point in both directions; historical projectile trails; no physics or reward changes during rendering; cast-release alignment in all six chapters; all 60 boss release effects; boss-owner cleanup; bounded cosmetic state, pause and expiry; cosmetic state omitted from Continue; swept cover impact position; and full native combat rendering in Campaign, Story and Endless. Six-class animated preview, all-skill gallery, actual Story combat frame and updated boss preview were rendered using the game code and inspected. Rendered previews are native Canvas captures, not a browser recording. Live browser interaction, browser/mobile FPS and human balance remain unverified.
+
+ALL-WEAPON ATTACK UPDATE (30 October 2026): 77 engine checks pass against the rebuilt embedded HTML. All 31 weapons have complete clips and unique signature profiles. Thirteen new sequences add 104 whole-body poses using built-in imagegen artwork; total action registry is 32 sheets / 255 frames (including skill clips). Tested loaded frame diversity and transparent borders, contact-time release once per attack for every weapon, visible anticipation, rooted frame motion and tip alignment in both facings, signature animation and increasing tier detail, damage/reward-free cosmetic rendering, dash cancellation, paused timers, mid-attack Continue and the Seraph Lantern remaining present on all eight frames. Native six-class and full-arsenal previews were rendered with the game code and visually inspected; cinematic demonstrations are slowed for readability and use controlled targets. No live browser or mobile FPS verification is claimed.
+
+DIFFICULTY UPDATE (30 October 2026): 87 engine checks pass. Continuous per-wave and per-chapter enemy scaling, 150-enemy arena limit, five-wave elites, larger Story encounters, bounded Story boss reinforcements, two- and three-skill boss chains, stagger protection, full warning times, and resumable chain state are covered. See Last-Lantern-Difficulty.md for sample spawn stats and validation limits.

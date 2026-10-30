@@ -1,0 +1,294 @@
+{
+  "version": 1,
+  "notes": "Generated at runtime from reference sprites using body-part and wing rigs; all frames also baked inside the standalone game.",
+  "sprites": {
+    "brann": {
+      "frameWidth": 142,
+      "frameHeight": 184,
+      "bodyWidth": 86,
+      "bodyHeight": 128,
+      "padding": 28,
+      "footAnchor": [
+        71,
+        156
+      ],
+      "states": {
+        "idle": {
+          "file": "brann-idle.png",
+          "frames": 4,
+          "fps": 5
+        },
+        "walk": {
+          "file": "brann-walk.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "attack": {
+          "file": "brann-attack.png",
+          "frames": 6,
+          "fps": 24
+        },
+        "dash": {
+          "file": "brann-dash.png",
+          "frames": 4,
+          "fps": 24
+        },
+        "skill": {
+          "file": "brann-skill.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "hurt": {
+          "file": "brann-hurt.png",
+          "frames": 4,
+          "fps": 20
+        },
+        "death": {
+          "file": "brann-death.png",
+          "frames": 8,
+          "fps": 16
+        }
+      }
+    },
+    "nyx": {
+      "frameWidth": 164,
+      "frameHeight": 184,
+      "bodyWidth": 108,
+      "bodyHeight": 128,
+      "padding": 28,
+      "footAnchor": [
+        82,
+        156
+      ],
+      "states": {
+        "idle": {
+          "file": "nyx-idle.png",
+          "frames": 4,
+          "fps": 5
+        },
+        "walk": {
+          "file": "nyx-walk.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "attack": {
+          "file": "nyx-attack.png",
+          "frames": 6,
+          "fps": 24
+        },
+        "dash": {
+          "file": "nyx-dash.png",
+          "frames": 4,
+          "fps": 24
+        },
+        "skill": {
+          "file": "nyx-skill.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "hurt": {
+          "file": "nyx-hurt.png",
+          "frames": 4,
+          "fps": 20
+        },
+        "death": {
+          "file": "nyx-death.png",
+          "frames": 8,
+          "fps": 16
+        }
+      }
+    },
+    "orin": {
+      "frameWidth": 143,
+      "frameHeight": 184,
+      "bodyWidth": 87,
+      "bodyHeight": 128,
+      "padding": 28,
+      "footAnchor": [
+        71.5,
+        156
+      ],
+      "states": {
+        "idle": {
+          "file": "orin-idle.png",
+          "frames": 4,
+          "fps": 5
+        },
+        "walk": {
+          "file": "orin-walk.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "attack": {
+          "file": "orin-attack.png",
+          "frames": 6,
+          "fps": 24
+        },
+        "dash": {
+          "file": "orin-dash.png",
+          "frames": 4,
+          "fps": 24
+        },
+        "skill": {
+          "file": "orin-skill.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "hurt": {
+          "file": "orin-hurt.png",
+          "frames": 4,
+          "fps": 20
+        },
+        "death": {
+          "file": "orin-death.png",
+          "frames": 8,
+          "fps": 16
+        }
+      }
+    },
+    "wisp": {
+      "frameWidth": 164,
+      "frameHeight": 184,
+      "bodyWidth": 108,
+      "bodyHeight": 128,
+      "padding": 28,
+      "footAnchor": [
+        82,
+        156
+      ],
+      "states": {
+        "idle": {
+          "file": "wisp-idle.png",
+          "frames": 4,
+          "fps": 5
+        },
+        "walk": {
+          "file": "wisp-walk.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "attack": {
+          "file": "wisp-attack.png",
+          "frames": 6,
+          "fps": 24
+        },
+        "dash": {
+          "file": "wisp-dash.png",
+          "frames": 4,
+          "fps": 24
+        },
+        "skill": {
+          "file": "wisp-skill.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "hurt": {
+          "file": "wisp-hurt.png",
+          "frames": 4,
+          "fps": 20
+        },
+        "death": {
+          "file": "wisp-death.png",
+          "frames": 8,
+          "fps": 16
+        }
+      }
+    },
+    "bat": {
+      "frameWidth": 216,
+      "frameHeight": 142,
+      "bodyWidth": 160,
+      "bodyHeight": 86,
+      "padding": 28,
+      "footAnchor": [
+        108,
+        114
+      ],
+      "states": {
+        "idle": {
+          "file": "bat-idle.png",
+          "frames": 4,
+          "fps": 5
+        },
+        "walk": {
+          "file": "bat-walk.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "attack": {
+          "file": "bat-attack.png",
+          "frames": 6,
+          "fps": 24
+        },
+        "dash": {
+          "file": "bat-dash.png",
+          "frames": 4,
+          "fps": 24
+        },
+        "skill": {
+          "file": "bat-skill.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "hurt": {
+          "file": "bat-hurt.png",
+          "frames": 4,
+          "fps": 20
+        },
+        "death": {
+          "file": "bat-death.png",
+          "frames": 8,
+          "fps": 16
+        }
+      }
+    },
+    "king": {
+      "frameWidth": 190,
+      "frameHeight": 212,
+      "bodyWidth": 134,
+      "bodyHeight": 156,
+      "padding": 28,
+      "footAnchor": [
+        95,
+        184
+      ],
+      "states": {
+        "idle": {
+          "file": "king-idle.png",
+          "frames": 4,
+          "fps": 5
+        },
+        "walk": {
+          "file": "king-walk.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "attack": {
+          "file": "king-attack.png",
+          "frames": 6,
+          "fps": 24
+        },
+        "dash": {
+          "file": "king-dash.png",
+          "frames": 4,
+          "fps": 24
+        },
+        "skill": {
+          "file": "king-skill.png",
+          "frames": 8,
+          "fps": 12
+        },
+        "hurt": {
+          "file": "king-hurt.png",
+          "frames": 4,
+          "fps": 20
+        },
+        "death": {
+          "file": "king-death.png",
+          "frames": 8,
+          "fps": 16
+        }
+      }
+    }
+  }
+}
